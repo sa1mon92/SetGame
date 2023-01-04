@@ -7,7 +7,7 @@ It is necessary to find a set of 3 cards so that they match in one of the signs 
 * MVC
 ***
 ###  __Preview__
-![<img src="Preview.png" width="397" height="800">](Preview_1.png)
+![<img src="Preview.png" width="400" height="800">](Preview_1.png)
 ***
 ###  __Feedback__
 Telegram - @Sa1monch  
